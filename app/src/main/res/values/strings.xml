@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GitHubUserFika</string>
+    <string name="searchbar_hint">What are you looking for</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="this_activity">This activity</string>
+    <string name="menu_1">menu 1</string>
+    <string name="menu_2">menu 2</string>
+    <string name="follower">%d Follower</string>
+    <string name="following">%d Following</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+</resources>
