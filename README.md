@@ -1,5 +1,5 @@
 # GitHubUserFika
-Project ini merupakan applikasi untuk mencari user github. Tidak hanya itu kitadapat menambahkan user ke dalam favorite list
+This project is an application for searching GitHub users. In addition, users can be added to a favorite list.
 
 ## Features <a name="Feature"></a>
 - [x] Applications are capable of adding users to the favorites list.
